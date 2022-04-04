@@ -1,7 +1,4 @@
-package com.borisov.harrypotter.data
-
-import com.borisov.harrypotter.data.net.PersonCloud
-import com.borisov.harrypotter.data.net.PersonsService
+package com.borisov.harrypotter.data.net
 
 /**
  * @author Borisov Andrey on 04.04.2022
