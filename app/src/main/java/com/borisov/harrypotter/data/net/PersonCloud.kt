@@ -1,6 +1,7 @@
 package com.borisov.harrypotter.data.net
 
 import com.borisov.harrypotter.core.Abstract
+import com.borisov.harrypotter.data.PersonData
 import com.borisov.harrypotter.data.ToPersonMapper
 import com.google.gson.annotations.SerializedName
 
