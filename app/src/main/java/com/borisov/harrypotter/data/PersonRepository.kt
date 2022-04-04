@@ -1,6 +1,6 @@
 package com.borisov.harrypotter.data
 
-import com.borisov.harrypotter.data.cache.ListPersonCacheDataSourse
+import com.borisov.harrypotter.data.cache.ListPersonCacheDataSource
 import com.borisov.harrypotter.data.cache.ListPersonCacheMapper
 import com.borisov.harrypotter.data.net.ListPersonCloudDataSource
 import com.borisov.harrypotter.data.net.ListPersonCloudMapper
@@ -14,7 +14,7 @@ interface PersonRepository {
 
     class Base(
         private val cloudDataSource: ListPersonCloudDataSource,
-        private val cacheDataSource: ListPersonCacheDataSourse,
+        private val cacheDataSource: ListPersonCacheDataSource,
         private val listPersonCloudMapper: ListPersonCloudMapper,
         private val listPersonCacheMapper: ListPersonCacheMapper,
     ) : PersonRepository {
