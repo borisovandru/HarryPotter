@@ -1,6 +1,7 @@
 package com.borisov.harrypotter.data
 
 import com.borisov.harrypotter.core.Abstract
+import com.borisov.harrypotter.domain.PersonDomain
 
 /**
  * @author Borisov Andrey on 04.04.2022
