@@ -1,6 +1,7 @@
 package com.borisov.harrypotter.domain
 
 import com.borisov.harrypotter.core.Abstract
+import com.borisov.harrypotter.presentation.PersonUi
 
 /**
  * @author Borisov Andrey on 04.04.2022

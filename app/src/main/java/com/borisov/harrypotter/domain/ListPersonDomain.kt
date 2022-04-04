@@ -4,6 +4,7 @@ import com.borisov.harrypotter.core.Abstract
 import com.borisov.harrypotter.data.ErrorType
 import com.borisov.harrypotter.data.PersonData
 import com.borisov.harrypotter.data.PersonDataToDomainMapper
+import com.borisov.harrypotter.presentation.ListPersonUi
 import retrofit2.HttpException
 import java.net.UnknownHostException
 

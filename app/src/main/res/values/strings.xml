@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">HarryPotter</string>
+    <string name="service_unavailable_message">service unavailable</string>
+    <string name="no_connection_message">no connection</string>
+    <string name="something_went_wrong">something went wrong</string>
+    <string name="try_again">try again</string>
 </resources>
